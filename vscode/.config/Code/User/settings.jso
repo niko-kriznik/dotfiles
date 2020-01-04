@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 18,
+    "editor.fontWeight": "500",
+    "editor.fontFamily": "'Cascadia Mono PL', 'Courier New', monospace",
+    "editor.suggestSelection": "first",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.zoomLevel": 1
+}
