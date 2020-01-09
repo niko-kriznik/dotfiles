@@ -4,18 +4,20 @@
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
+export PATH="$PATH:/home/mj/Crank_Software/Storyboard_Engine/5.3.201807051156/linux-x86_64-opengles_2.0-x11-obj/bin"
+
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+
+# Tab FIX
+bindkey '\CI' expand-or-complete-prefix
+
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 # ZSH_THEME="robbyrussell"
 ZSH_THEME="powerlevel9k/powerlevel9k"
-
-#POWERLEVEL9K_PROMPT_ON_NEWLINE=true
-#POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
-#POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX=" \uf101 "
-
-#POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir vcs)
 
 POWERLEVEL9K_DISABLE_RPROMPT=true
 POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
