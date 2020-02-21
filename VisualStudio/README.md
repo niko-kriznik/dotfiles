@@ -5,7 +5,8 @@
 - [Add New File][AddNewFile]
 - [Power Commands][PowerCommands]
 - [Markdown Editor][MarkdownEditor]
-- [Highlight All Occurrences++][HighlightAllOccurrences++]
+- [File Icons][FileIcons]
+- [Match Margin][MatchMargin]
 - [Better Comments][BetterComments]
 - [Toggle Comment][ToggleComment]
 - [Time Stamp Margin][TimeStampMargin]
@@ -20,7 +21,8 @@
 [AddNewFile]: <https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile>
 [PowerCommands]: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.PowerCommandsforVisualStudio>
 [MarkdownEditor]: <https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor>
-[HighlightAllOccurrences++]: <https://marketplace.visualstudio.com/items?itemName=DanielAmes.Highlightalloccurrencesofselectedword>
+[MatchMargin]: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MatchMargin>
+[FileIcons]: <https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons>
 [BetterComments]: <https://marketplace.visualstudio.com/items?itemName=OmarRwemi.BetterComments>
 [ToggleComment]: <https://marketplace.visualstudio.com/items?itemName=munyabe.ToggleComment>
 [TimeStampMargin]: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.TimeStampMargin>
