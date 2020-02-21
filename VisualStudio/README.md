@@ -17,7 +17,7 @@
 - [Mouse Navigation][MouseNavigation]
 - [Close Prompt][ClosePrompt]
 
-[Settings]: <https://github.com/niko-kriznik/dotfiles/blob/master/VisualStudio/VisualStudioSettings.vssettings>
+[Settings]: <VisualStudioSettings.vssettings>
 
 [AddNewFile]: <https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile>
 [PowerCommands]: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.PowerCommandsforVisualStudio>
