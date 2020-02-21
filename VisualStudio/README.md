@@ -4,6 +4,7 @@
 #### Extensions
 - [Add New File][AddNewFile]
 - [Power Commands][PowerCommands]
+- [GLSL Language Integration][GLSLLanguageIntegration]
 - [Markdown Editor][MarkdownEditor]
 - [File Icons][FileIcons]
 - [Match Margin][MatchMargin]
@@ -20,6 +21,7 @@
 
 [AddNewFile]: <https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile>
 [PowerCommands]: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.PowerCommandsforVisualStudio>
+[GLSLLanguageIntegration]: <https://marketplace.visualstudio.com/items?itemName=DanielScherzer.GLSL>
 [MarkdownEditor]: <https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor>
 [MatchMargin]: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MatchMargin>
 [FileIcons]: <https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons>
