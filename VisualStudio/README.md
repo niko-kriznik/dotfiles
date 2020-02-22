@@ -10,6 +10,7 @@
 - [Match Margin][MatchMargin]
 - [Better Comments][BetterComments]
 - [Toggle Comment][ToggleComment]
+- [Clang Power Tools][ClangPowerTools]
 - [Time Stamp Margin][TimeStampMargin]
 - [Output Enhancer][OutputEnhancer]
 - [Solution Error Visualizer][SolutionErrorVisualizer]
@@ -27,6 +28,7 @@
 [FileIcons]: <https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons>
 [BetterComments]: <https://marketplace.visualstudio.com/items?itemName=OmarRwemi.BetterComments>
 [ToggleComment]: <https://marketplace.visualstudio.com/items?itemName=munyabe.ToggleComment>
+[ClangPowerTools]: <https://marketplace.visualstudio.com/items?itemName=caphyon.ClangPowerTools>
 [TimeStampMargin]: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.TimeStampMargin>
 [OutputEnhancer]: <https://marketplace.visualstudio.com/items?itemName=NikolayBalakin.Outputenhancer>
 [SolutionErrorVisualizer]: <https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.SolutionErrorVisualizer>
