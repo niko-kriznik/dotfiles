@@ -1,5 +1,5 @@
 #### Using Windows's OpenSSH client for Git
-Add the below listed commands to your ".gitconfig" file the under "core" section.
+Add the below-listed commands to your ".gitconfig" file the under "core" section.
 ```
 sshCommand = 'C:/Windows/System32/OpenSSH/ssh.exe' -c aes128-cbc
 askpass = git-gui--askpass
@@ -30,4 +30,29 @@ E.g. from "git@github.com:chromium/chromium.git" to
 
 More information on configuring the SSH config file can be found [here][ssh_config].
 
+#### Using [WinMerge][WinMerge] as a Git difftool
+Add the below-listed commands to your ".gitconfig" file.
+```
+[diff]
+    tool = winmerge
+[difftool]
+    prompt = false
+[difftool "winmerge"]
+    name = WinMerge
+    trustExitCode = true
+    cmd = "/C/Program\\ Files/WinMerge/WinMergeU.exe" -u -e $LOCAL $REMOTE
+```
+
+Usage:
+```sh
+$ git difftool
+```
+or
+```sh
+$ git difftool --dir-diff
+```
+for diffing the whole directory.
+
+
 [ssh_config]: <https://linuxize.com/post/using-the-ssh-config-file>
+[WinMerge]: <https://winmerge.org/?lang=en>
