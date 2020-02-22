@@ -4,8 +4,6 @@
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
-export PATH="$PATH:/home/mj/Crank_Software/Storyboard_Engine/5.3.201807051156/linux-x86_64-opengles_2.0-x11-obj/bin"
-
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 
