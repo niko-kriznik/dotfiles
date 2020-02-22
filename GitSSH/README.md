@@ -1,7 +1,7 @@
 #### Using Windows's OpenSSH client for Git
 Add the below-listed commands to your ".gitconfig" file the under "core" section.
 ```
-sshCommand = 'C:/Windows/System32/OpenSSH/ssh.exe' -c aes128-cbc
+sshCommand = "C:/Windows/System32/OpenSSH/ssh.exe" -c aes128-cbc
 askpass = git-gui--askpass
 ```
 
