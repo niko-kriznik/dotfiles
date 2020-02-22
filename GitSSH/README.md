@@ -15,11 +15,11 @@ Example:
 Host github.com
     Hostname github.com
     User john-white
-    IdentityFile "/C/Users/John/.ssh/github_john-white"
+    IdentityFile "C:/Users/John/.ssh/github_john-white"
 Host github-google
     Hostname github.com
     User john-google
-    IdentityFile "/C/Users/John/.ssh/github_john-google"
+    IdentityFile "C:/Users/John/.ssh/github_john-google"
 ```
 
 When cloning **work** repositories (*john-google*) you must change
@@ -40,7 +40,7 @@ Add the below-listed commands to your ".gitconfig" file.
 [difftool "winmerge"]
     name = WinMerge
     trustExitCode = true
-    cmd = "/C/Program\\ Files/WinMerge/WinMergeU.exe" -u -e $LOCAL $REMOTE
+    cmd = "C:/Program\\ Files/WinMerge/WinMergeU.exe" -u -e $LOCAL $REMOTE
 ```
 
 Usage:
