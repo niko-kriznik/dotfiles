@@ -1,0 +1,10 @@
+{
+	"side_bar_layout": "locations_as_column",
+	"diff_style": "side-by-side",
+	"hardware_acceleration": "opengl",
+	"hide_menu": true,
+	"render_commit_dialog_message_at_top": true,
+	"time_format": "24h",
+	"font_face": "Roboto Mono Regular",
+	"font_size": 10,
+}
