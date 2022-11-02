@@ -5,6 +5,8 @@
 # Aliases
 alias vim='nvim'
 alias start='nautilus --browser'
+alias gitsub='git submodule update --init --recursive'
+alias gitreb='git rebase --continue'
 
 # PS1 + Git
 # Inspired by: https://gist.github.com/justintv/168835?permalink_comment_id=3643177#gistcomment-3643177
