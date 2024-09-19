@@ -20,3 +20,7 @@ function parse_git_branch {
 }
 
 export PS1="\e[1;32m\u\e[0;97m:\e[1;34m\]\w\e[3;33m\]\$(parse_git_branch)\e[00m\]\n$ "
+
+# MacOS .zshrc
+# setopt PROMPT_SUBST
+# export PROMPT="%n: %~$(parse_git_branch)"$'\n'"$ "
