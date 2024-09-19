@@ -4,7 +4,7 @@
 
 # Aliases
 alias vim='nvim'
-alias start='nautilus --browser' # Linux
+alias start='nautilus --browser' # Linux (GNOME)
 # alias start='open' # MacOS
 alias gitsub='git submodule update --init --recursive'
 alias gitreb='git rebase --continue'
